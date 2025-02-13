@@ -1,7 +1,5 @@
 streamlit
 tensorflow
 PIL
-numpy
 google.generativeai
-os
 dotenv
