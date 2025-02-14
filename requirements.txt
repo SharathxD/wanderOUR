@@ -2,4 +2,4 @@ streamlit
 tensorflow
 Pillow
 google-generativeai
-dotenv
+python-dotenv
