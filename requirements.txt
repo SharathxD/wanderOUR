@@ -1,5 +1,5 @@
 streamlit
 tensorflow
-PIL
-google.generativeai
+Pillow
+google-generativeai
 dotenv
